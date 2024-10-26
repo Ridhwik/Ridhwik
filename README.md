@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridhwik Jangid</h1>
-<h3 align="center">a passionate Java Fullstack Developer with a knack for creating scalable, efficient, and user-friendly applications. With a strong foundation in Java backend and modern frontend technologies, I love tackling complex problems and delivering elegant solutions.</h3>
+<h3 align="center">A passionate Java Fullstack Developer with a knack for creating scalable, efficient, and user-friendly applications. With a strong foundation in Java backend and modern frontend technologies, I love tackling complex problems and delivering elegant solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhwikjangid&label=Profile%20views&color=0e75b6&style=flat" alt="ridhwikjangid" /> </p>
 
